@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: d3a0bd7f-3cfc-99ab-9fb4-6f3ea017c0b8
 resourcetype: Document
 title: Four Frameworks for Social and Ethical Questions
 uid: b2098214-7537-dce5-a399-5eae9b2af66c
