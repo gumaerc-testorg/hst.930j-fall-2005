@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides details on readings assigned for each session of
+  the course.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -31,7 +33,7 @@ READINGS
 Introduction and Overview: Social and Ethical Questions
 {{< tdclose >}}
 {{< tdopen >}}
-Fischer, Michael M. J. "Four Frameworks for Social and Ethical Questions." 2005. ([PDF]({{< baseurl >}}/resources/4_frames))
+Fischer, Michael M. J. "Four Frameworks for Social and Ethical Questions." 2005. ({{% resource_link b2098214-7537-dce5-a399-5eae9b2af66c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
