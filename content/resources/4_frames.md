@@ -7,6 +7,7 @@ file: /courses/hst-930j-social-studies-of-bioscience-and-biotech-fall-2005/b2098
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: Four Frameworks for Social and Ethical Questions
 uid: b2098214-7537-dce5-a399-5eae9b2af66c
 ---
 Handout on social and ethical questions on epistemology and sociology of knowledge, historical and institutional horizons, phenomenology of medicine and medical sciences, and social medicine.
-

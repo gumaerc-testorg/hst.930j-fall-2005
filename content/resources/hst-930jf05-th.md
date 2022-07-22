@@ -11,10 +11,10 @@ image_metadata:
   image-alt: A diagram indicating the plasticity of aduklt stem cells.  The image
     shows various human organs and their relationships via stem cells.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: Plasticity of Adult Stem Cells (thumbnail)
 uid: 17903a1c-cc05-0681-3ff6-f6f953802ee5
 ---
 Plasticity of adult stem cells. (Image courtesy of the National Institutes of Health.)
-
